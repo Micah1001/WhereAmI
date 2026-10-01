@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhereAmI</string>
+    <string name="start">START</string>
+    <string name="click_the_start_button_to_find_your_current_location">Click the Start Button to Find Your Current Location</string>
+    <string name="welcome_to_find_your_location">Welcome to Find Your Location</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
